@@ -7,6 +7,8 @@ npm run serve
 # Customize configuration
 See https://cli.vuejs.org/config/
 
+This project, developed during the second year of study, involves the creation of a Vue.js-based online shop application that employs advanced features and best practices. The project focuses on implementing role-based access control, optimizing component-based templates, utilizing external APIs, and creating a seamless user experience.
+
 Integration of Public API Data: The application leverages public APIs to retrieve data and dynamically display it in blocks on the user interface. These blocks feature relevant images and are equipped with search functionality, enabling users to conveniently explore and find desired items.
 
 User Authentication and Role-Based Access: A significant aspect of the project is the implementation of user authentication and authorization based on role. Users are authenticated using data from the store, and their details are securely stored in LocalStorage. Access to different pages and functionalities is tailored according to the user's role, ensuring a personalized experience.
